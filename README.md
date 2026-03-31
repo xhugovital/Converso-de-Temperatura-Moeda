@@ -1,22 +1,22 @@
-Conversor de Temperatura e Moeda
+# Conversor de Temperatura e Moeda
 
-Este é um projeto simples em Python que permite converter valores de temperatura (Celsius ↔ Fahrenheit) e moedas (USD, BRL, EUR) usando taxas fixas atualizadas em 30/03/2026.
+## Este é um projeto simples em Python que permite converter valores de temperatura (Celsius ↔ Fahrenheit) e moedas (USD, BRL, EUR) usando taxas fixas atualizadas em 30/03/2026.
 
-🚀 Funcionalidades
+### 🚀 Funcionalidades
 
-Conversão de temperatura entre Celsius e Fahrenheit.
+#### Conversão de temperatura entre Celsius e Fahrenheit.
 
-Conversão de moedas entre USD, BRL e EUR.
+#### Conversão de moedas entre USD, BRL e EUR.
 
-Menu interativo no terminal.
+#### Menu interativo no terminal.
 
-Tratamento de erros para entradas inválidas.
+#### Tratamento de erros para entradas inválidas.
 
-📊 Taxas de câmbio utilizadas (30/03/2026)
+### 📊 Taxas de câmbio utilizadas (30/03/2026)
 
-Conversão
+#### Conversão
 
-Taxa
+#### Taxa
 
 1 USD → BRL  5.25
 
