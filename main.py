@@ -1,5 +1,4 @@
 # === CONVERSOR DE TEMPERATURA E MOEDA ===
-# Estrutura modular e organizada
 
 # Taxas fixas (30/03/2026)
 TAXAS_CAMBIO = {
